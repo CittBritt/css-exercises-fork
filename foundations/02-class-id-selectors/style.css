@@ -1,0 +1,22 @@
+
+
+
+.odd-number {
+    background-color: hsla(344, 100%, 71%, 1);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+
+#second {
+color: hsla(230, 100%, 39%, 1);
+font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: hsla(133, 100%, 77%, 1);
+    font-weight: 700;
+}
